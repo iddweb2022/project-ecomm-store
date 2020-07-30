@@ -55,9 +55,12 @@ Complete the remaining style for this site using `@media` queries to create at l
 
 ### Submission
 
+The submission form can be completed here: <https://forms.gle/GNX6VZgobgeEmAps5>
+
 - All projects will be uploaded to your personal Github account as a public repo
 - Commits must be made prior to the due dates to be considered
-- Github Pages must be activated on your site can be viewed live on the web
+- _Github Pages_ must be activated on your site can be viewed live on the web (found in the repo's "Settings")
 - The live url must be added to the "Website" field of the repository's "About"
-- Both urls (code, and live) will be collected prior to the first deliverable being due
-- The same repo links should be used for both deliverables
+- _Both_ urls (code, and live) will be collected prior to the first deliverable being due
+- The same repo link will be used for both assignment deliverables, so you only need to fill out the form once
+   - Commit history will show your submission date/time
